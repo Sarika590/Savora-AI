@@ -1,5 +1,5 @@
 # Savora AI — The Intelligence Behind Every Meal 🍽️
-https://lovable.dev/preview/4PdKUlDxZMLiU75Et9lZfv71nzzE0QXP
+https://freshn-fridge-companion.lovable.app
 
 **Savora AI** is an intelligent kitchen assistant designed to make everyday cooking smarter, easier, and more efficient.
 
